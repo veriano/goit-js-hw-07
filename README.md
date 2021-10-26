@@ -1,1 +1,1 @@
-# https-github.com-veriano-js-hw-07
+hoit-js-hw-07
